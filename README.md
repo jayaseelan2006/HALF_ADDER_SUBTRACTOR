@@ -38,7 +38,7 @@ Figure -02 HALF Subtractor
 # Truthtable:
 # Half Adder:
 ![Screenshot 2024-04-04 001834](https://github.com/jayaseelan2006/HALF_ADDER_SUBTRACTOR/assets/151389443/a0a52ab7-5a82-4e67-b235-542e8c5ff6ea)
-# Full Adder:
+# Half subtractor:
 ![Screenshot 2024-04-04 001858](https://github.com/jayaseelan2006/HALF_ADDER_SUBTRACTOR/assets/151389443/d500d90f-4eab-461c-867e-e2aa2f2ec503)
 
 # Procedure:
@@ -86,4 +86,4 @@ endmodule
 
 # Result:
 half adder and half subtractor circuit and verify its truth table in Quartus using Verilog
-programming
+programming.
